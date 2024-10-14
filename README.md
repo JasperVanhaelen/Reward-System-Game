@@ -1,2 +1,2 @@
 # Reward-System-Game
-Prototype : Reward Systeem voor Expert Path - Game prototyping
+Een github met (enkel) de scripts voor deze opdracht.
