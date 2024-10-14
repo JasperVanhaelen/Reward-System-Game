@@ -2,7 +2,7 @@
 Een github met (enkel) de scripts voor deze opdracht.
 
 ## Description
-(Simple) Bean game; parkour game in which you collect beans. With these beans you can buy cosmetic items & upgrades in the shop.
+(Simple) Bean game; parkour game in which you collect beans. With these beans you can buy cosmetic items & upgrades in the shop. <br/>
 Third person 3D pc-game.
 
 ## Features
@@ -17,5 +17,5 @@ Third person 3D pc-game.
 - When falling in void, you die! Game stops with options to quit or restart
 
 ## Sources
-https://www.youtube.com/watch?v=Oie-G5xuQNA
-https://chatgpt.com/share/670d830d-c848-8006-9060-2c97fb507e1d
+YouTube video for shop: https://www.youtube.com/watch?v=Oie-G5xuQNA <br/>
+Chat GPT for questions/problems/help: https://chatgpt.com/share/670d830d-c848-8006-9060-2c97fb507e1d
